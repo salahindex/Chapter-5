@@ -1,0 +1,28 @@
+xan{
+  background-color: #3cb;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  color: #000;
+}
+.ari{
+  text-align: center;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  background-color:green;
+  color: #fff;
+  
+}
+section h2{
+  color: green;
+  font-family: 'Times New Roman', Times, serif;
+  font-style:italic;
+}
+
+#copy{
+  text-align: center;
+  background-color:green;
+  color: #fff;
+  font-size: 20px;
+  font-style:Italic ;
+}
